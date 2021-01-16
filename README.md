@@ -4,7 +4,7 @@ Made by [@devachatu].
 
 **_Preview:_** 
 
-![](https://github.com/devachatu/BSafe/blob/master/images/GUI1.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI2.jpg)
+![](https://github.com/devachatu/BSafe/blob/master/images/GUI1.jpg | width=100) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI2.jpg)
 ![](https://github.com/devachatu/BSafe/blob/master/images/GUI3.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI4.jpg)
 ![](https://github.com/devachatu/BSafe/blob/master/images/GUI5.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI6.jpg)
 ![](https://github.com/devachatu/BSafe/blob/master/images/GUI7.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI8.jpg)
