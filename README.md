@@ -3,7 +3,7 @@ Made by [@devachatu].
 <br>
 
 **_Preview:_** 
-<img src="https://github.com/devachatu/BSafe/blob/master/images/GUI1.jpg" width="100" height="100"> ![](https://github.com/devachatu/BSafe/blob/master/images/GUI2.jpg)
+<img src="https://github.com/devachatu/BSafe/blob/master/images/GUI1.jpg" width="300" height="500"> ![](https://github.com/devachatu/BSafe/blob/master/images/GUI2.jpg)
 ![](https://github.com/devachatu/BSafe/blob/master/images/GUI3.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI4.jpg)
 ![](https://github.com/devachatu/BSafe/blob/master/images/GUI5.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI6.jpg)
 ![](https://github.com/devachatu/BSafe/blob/master/images/GUI7.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI8.jpg)
