@@ -8,5 +8,7 @@ Read the article on [Medium](https://medium.com/@pr_mais/simple-clean-login-ui-u
 
 **_Preview:_** 
 
-![](https://cdn-images-1.medium.com/max/1200/1*SGCH-xPXb_8rfL4_eGBOCQ.gif) ![](https://cdn-images-1.medium.com/max/1200/1*dMlmvO2ENIRt0Nic8jHB6A.gif)
-
+![](https://github.com/devachatu/BSafe/blob/master/images/GUI1.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI2.jpg)
+![](https://github.com/devachatu/BSafe/blob/master/images/GUI3.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI4.jpg)
+![](https://github.com/devachatu/BSafe/blob/master/images/GUI5.jpg) ![](https://github.com/devachatu/BSafe/blob/master/images/GUI6.jpg)
+![](https://github.com/devachatu/BSafe/blob/master/images/GUI7.jpg)
